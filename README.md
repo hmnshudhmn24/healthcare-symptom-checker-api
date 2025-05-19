@@ -64,7 +64,3 @@ healthcare-symptom-checker-api/
 - TensorFlow-based AI model integration
 - Database-backed condition learning
 - Swagger API documentation
-
-## 👨‍⚕️ Author
-
-Created with care for smart health solutions ❤️
